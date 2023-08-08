@@ -1,0 +1,59 @@
+html{
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://themes.googleusercontent.com/static/fonts/roboto/v9/Pru33qjShpZSmG3z6VYwnT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+    font-weight: 900;  
+}
+
+.reg{
+
+    text-align: center;
+}
+li{
+    display: inline;
+}
+li a{
+
+    text-decoration: none;
+    margin: 50px;    margin-left: auto;
+    display: inline;
+    text-align: center;
+    size: 150px;
+    color: brown;
+    
+    
+}
+
+.navcontainer{
+    background-color: deepskyblue;
+    margin: 10px;
+    width: 100%;
+    height: 100% ;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50px;
+    
+   
+}
+
+h1{
+
+    text-align: center;
+}
+
+.image{
+    display: inline-block;
+    margin: 10px;
+    width: 100%;
+    height: 100% ;
+    line-height: 115px;
+    text-align: center;
+}
+.resize_center {
+    max-width:100%;
+    max-height:100%;
+    vertical-align: middle;
+}
+footer{
+    text-align: center;
+    font-weight: 100;
+}
